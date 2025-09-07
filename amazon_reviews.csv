@@ -1,0 +1,7 @@
+Review,Sentiment
+"This product is amazing, I love it!",Positive
+"Terrible quality, very disappointed",Negative
+"Excellent value for money, highly recommend",Positive
+"Not worth the price, broke after one use",Negative
+"Satisfied with the purchase, good quality",Positive
+"Worst product ever, do not buy",Negative
